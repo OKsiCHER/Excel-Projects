@@ -10,7 +10,7 @@
 
 ![Задача 1](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Interval.png)
 
-🎬 **Видео решение:**
+**Видео решение:**
 
 ![Задача 1](https://drive.google.com/file/d/1IjdPZ0hXEZSYGu03J930vORWGqkLSsX6/view?usp=drive_link)
 
