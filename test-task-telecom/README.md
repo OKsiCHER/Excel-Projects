@@ -168,4 +168,4 @@ a) треугольник;
 ![Задача 12](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Shapes.png)
 
 ## 📁 Файлы проекта
-[Тестовое задание_ИАЦ.xlsx](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.xlsx) — итоговый файл (данные синтетические).# Excel-Projects
+[Тестовое задание_телеком.xlsx](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC.xlsx) — итоговый файл (данные синтетические).# Excel-Projects
