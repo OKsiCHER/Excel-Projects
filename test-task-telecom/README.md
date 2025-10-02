@@ -12,7 +12,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 1](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Interval.gif)
+![Задача 1](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Interval_.gif)
 
 2. Вычислить стоимость в соответствующей иностранной валюте, после чего округлить  до 2-х знаков.
 
