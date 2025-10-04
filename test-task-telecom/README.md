@@ -12,7 +12,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 1](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Interval_.gif)
+![Задача 1](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Interval.gif)
 
 2. Вычислить стоимость в соответствующей иностранной валюте, после чего округлить  до 2-х знаков.
 
@@ -24,7 +24,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 2](https://drive.google.com/file/d/12RAWeq8UOuDjLTi_QPdQI2MV1uOXqxPo/view?usp=drive_link)
+![Задача 2](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Exchange_rate.gif)
 
 3. Вывести суммы по продажам в 3 таблицы справа на основе предоставленных данных.
 
@@ -38,7 +38,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 3](https://drive.google.com/file/d/1zY2BCtu0kfaCIx2gAWcqHPZKfdOG45Bl/view?usp=drive_link)
+![Задача 3](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Profit%20category.gif)
 
 4. Вывести количество сотрудников в сооветствии с заголовками таблиц на основе предоставленных данных.
 
@@ -52,7 +52,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 4](https://drive.google.com/file/d/1SjONAaKvGCzqO7xHMddolJgmWvfVP6wP/view?usp=drive_link)
+![Задача 4](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Employees.gif)
 
 5. Удалить "лишние" пробелы из столбца "А".
 
@@ -64,7 +64,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 5](https://drive.google.com/file/d/1PqjvfvLqs0etyn-emlVgWs7iGslGTziv/view?usp=drive_link)
+![Задача 5](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Name_trim.gif)
 
 6. Разнести фамилию, имя и отчество по трем разным столбцам, используя встроенную функцию Excel.
 
@@ -76,7 +76,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 6](https://drive.google.com/file/d/1hfNdCmq5odiWjJVTdntZP6pkwdMnFK1T/view?usp=drive_link)
+![Задача 6](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Name_split.gif)
 
 7. Используя данные таблицы, необходимо заполнить столбец "Рентабельность" по следующим условиям: если уровень продаж той или иной марки составляет не менее 8% от общего уровня, то необходимо в столбце отображать "да", иначе - "нет".
 
@@ -88,7 +88,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 7](https://drive.google.com/file/d/1YOgJFqzqibJNvVDmvaxnNCcn0d-JIb2q/view?usp=drive_link)
+![Задача 7](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Profitability.gif)
 
 8. Используя данные таблиц справа заполнить столбцы "Сумма", "Скидка" и "Сумма с учетом скидки". Запись формульного выражения должна быть универсальной. Формула не меняется, если добавить новые уровни в таблицу "Таблица_Диапазонов".
 
@@ -104,7 +104,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 8](https://drive.google.com/file/d/11VAQH5azlSnPbebtKbjKC69Y2IeXXCQ0/view?usp=drive_link)
+![Задача 8](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Purchase.gif)
 
 9. Определите Регион поставки и клиента по артикулу товара, набранному в ячейку J3.
 
@@ -116,7 +116,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 9](https://drive.google.com/file/d/1ckyMj67xZsMTliGEJL4DJawax0lBhQga/view?usp=drive_link)
+![Задача 9](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Item_number.gif)
 
 10. Используя функцию Excel заменить код ошибки  #Н/Д в поле Премия на числовое значение - 0.
 
@@ -128,7 +128,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 10](https://drive.google.com/file/d/1M0_QgZx_fbPJM6tVTrtZTqBqaSqBITkH/view?usp=drive_link)
+![Задача 10](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Error.gif)
 
 11. Сделайте сводную таблицу на основе данных с Листа "Данные" по предоставленному образцу.
 
@@ -140,7 +140,7 @@
 
 🎬 **Видео решение:**
 
-![Задача 11](https://drive.google.com/file/d/1wDJu07imapOLULjd4_t856x4NO38z6p-/view?usp=drive_link)
+![Задача 11](https://github.com/OKsiCHER/Excel-Projects/blob/main/test-task-telecom/Pivot%20table.gif)
 
 12.1. Добавить на лист XL объекты (9 пар):
 a) треугольник;
